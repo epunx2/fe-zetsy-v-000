@@ -42,6 +42,10 @@ header h1 a {
   color: rgb(152,173,166);
 }
 
+header h1 a:hover {
+  color: rgb(111,127,122);
+}
+
 .featured-image img {
   border: rgb(152,173,166) solid 5px;
 }
