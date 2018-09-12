@@ -55,6 +55,10 @@ header h1 a:hover {
   color:
 }
 
+.press img {
+  width: 10%;
+}
+
 .press a img {
   border: #ccc solid 5px;
 }
