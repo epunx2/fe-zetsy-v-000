@@ -52,4 +52,5 @@ header h1 a {
 
 footer {
   float: right;
+  position: relative;
 }
