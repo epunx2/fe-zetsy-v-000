@@ -42,6 +42,14 @@ header h1 a {
   color: rgb(152,173,166);
 }
 
-img {
+.featured-image img {
   border: rgb(152,173,166) solid 5px;
+}
+
+.press a img {
+  border: rgb(152,173,166) solid 5px;
+}
+
+footer {
+  float: right;
 }
