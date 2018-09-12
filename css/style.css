@@ -11,6 +11,8 @@ h1 {
 }
 
 h2 {
+  font-size: 2em;
+  font-weight: bold;
   color: rgb(111,127,122);
 }
 
@@ -38,9 +40,4 @@ header h1 a {
   font-weight: bold;
   text-decoration: none;
   color: rgb(152,173,166);
-}
-
-.wrapper div h2 {
-  font-size: 2em;
-  font-weight: bold;
 }
