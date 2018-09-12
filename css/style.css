@@ -56,5 +56,5 @@ header h1 a {
 }
 
 footer p {
-  left: 90%;
+  position: relative;
 }
