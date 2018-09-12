@@ -42,6 +42,6 @@ header h1 a {
   color: rgb(152,173,166);
 }
 
-.featured-image img {
+img {
   border: rgb(152,173,166) solid 5px;
 }
